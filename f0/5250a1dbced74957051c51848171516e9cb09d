@@ -1,0 +1,38 @@
+src/game/game.test.ts
+  s_e2404cefd4d6d3::t_75a7286b70e862 1,4
+  s_e2404cefd4d6d3::t_9bd45e824b2c4c 177-178,183-197
+  s_e2404cefd4d6d3::t_f2a2d93e7edebc 179-182
+src/App.tsx
+  s_e2404cefd4d6d3::t_0f7671e99ac8aa 44
+  s_e2404cefd4d6d3::t_c2115cf0dbe98d 114
+src/components/RelicsPanel.tsx
+  s_e2404cefd4d6d3::t_779721abc4c14f 6
+  s_e2404cefd4d6d3::t_ac7b4dbe88ab77 108
+src/components/SelfCarePanel.tsx
+  s_e2404cefd4d6d3::t_48525037aaf9cf 30
+  s_e2404cefd4d6d3::t_f267a9e8b1e10a 6
+src/state/images.ts
+  s_e2404cefd4d6d3::t_1661eb30f4dc17 17-20
+  s_e2404cefd4d6d3::t_ace2a7e47b6876 62-70
+src/world/renderer.ts
+  s_e2404cefd4d6d3::t_ab82141b5c76aa 314-319
+  s_e2404cefd4d6d3::t_607e682637bd37 301-302
+src/state/persistence.ts
+  s_e2404cefd4d6d3::t_cb6eecf6c8a1ad 47-55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f05250a1dbced74957051c51848171516e9cb09d",
+  "prompts": {},
+  "sessions": {
+    "s_e2404cefd4d6d3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "714e6282-f948-40a8-b34a-515bbebdbdb4",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "jamubc <150970140+jamubc@users.noreply.github.com>"
+    }
+  }
+}
